@@ -54,9 +54,11 @@ Simple scheduling for small teams—no bloat.
 ---
 
 ## 📫 Want to Build Something?
-If you want:
+
+If you want:  
 ✔ A web game  
-✔ A tiny SaaS  
+✔ A micro-SaaS  
 ✔ A simple internal tool  
 
 Let’s talk.
+
